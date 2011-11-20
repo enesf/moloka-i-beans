@@ -1,4 +1,7 @@
-A netbeans color theme based on Monokai - by Truong Xuan Tinh (http://www.eclipsecolorthemes.org/?view=theme&id=52)
+Moloka'i Color Scheme for NetBeans
+==================================
+
+A NetBeans color theme based on Monokai - by Truong Xuan Tinh (http://www.eclipsecolorthemes.org/?view=theme&id=52)
 
 How to install
 --------------
@@ -7,4 +10,10 @@ How to install
 2. Open NetBeans, go to preferences, there click on import (on the lower left).
 3. Choose you newely created zip file
 4. Check Moloka'i Beans in the Fonts & Colors section
+
+Font
+____
+The default font is DejaVu Sans Mono from the DejaVu fonts family.
+
+Download: http://dejavu-fonts.org/
 
